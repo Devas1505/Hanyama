@@ -1,0 +1,1 @@
+print("yowai mo!")
